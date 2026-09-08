@@ -56,8 +56,8 @@ Projet personnel autour de l’analyse de données commerciales.
 ---
 
 ## 🎯 **Objectif**
-Je recherche une **alternance Data Analyst** à partir d’octobre 2026  
-📅 Rythme : 3 jours en entreprise / 2 jours à l’école
+Je recherche une **alternance Data Analyst** à partir de septembre 2026  
+📅 Rythme : 1 semaine formation / 2 semaines en entreprise
 
 ---
 
